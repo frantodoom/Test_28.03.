@@ -1,0 +1,7 @@
+c:\users\st024864\source\repos\Test_28.03.23\Test_28.03.23\bin\Debug\Test_28.03.23.exe.config
+c:\users\st024864\source\repos\Test_28.03.23\Test_28.03.23\bin\Debug\Test_28.03.23.exe
+c:\users\st024864\source\repos\Test_28.03.23\Test_28.03.23\bin\Debug\Test_28.03.23.pdb
+c:\users\st024864\source\repos\Test_28.03.23\Test_28.03.23\obj\Debug\Test_28.03.23.csprojAssemblyReference.cache
+c:\users\st024864\source\repos\Test_28.03.23\Test_28.03.23\obj\Debug\Test_28.03.23.csproj.CoreCompileInputs.cache
+c:\users\st024864\source\repos\Test_28.03.23\Test_28.03.23\obj\Debug\Test_28.03.23.exe
+c:\users\st024864\source\repos\Test_28.03.23\Test_28.03.23\obj\Debug\Test_28.03.23.pdb
